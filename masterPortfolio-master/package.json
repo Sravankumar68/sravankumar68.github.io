@@ -2,7 +2,7 @@
   "private": true,
 "name": "sravan-portfolio",
   "version": "0.1.0",
-"homepage": "https://sravankumar68.github.io",  "scripts": {
+"homepage": "https://Sravankumar68.github.io",  "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -b gh-pages -d build",
