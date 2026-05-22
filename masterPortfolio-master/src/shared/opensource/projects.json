@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "id": "inventory-system",
+      "name": "Intelligent Barcode-Based Inventory System",
+      "createdAt": "2025-01-01T00:00:00Z",
+      "url": "https://github.com/Sravankumar68",
+      "description": "AI-powered inventory management system with barcode tracking and real-time stock monitoring.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "MySQL",
+          "iconifyClass": "logos-mysql"
+        }
+      ]
+    },
+
+    {
+      "id": "ai-agent",
+      "name": "AI Research Paper Summarizer Agent",
+      "createdAt": "2025-01-01T00:00:00Z",
+      "url": "https://github.com/Sravankumar68",
+      "description": "AI-powered research paper summarizer using Python, Telegram Bot API and AI tools.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+
+        {
+          "name": "Artificial Intelligence",
+          "iconifyClass": "simple-icons:openai"
+        }
+      ]
+    },
+
+    {
+      "id": "diabetes-app",
+      "name": "Diabetes Prediction Web Application",
+      "createdAt": "2025-01-01T00:00:00Z",
+      "url": "https://github.com/Sravankumar68",
+      "description": "Machine Learning based healthcare prediction system using Streamlit and Python.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+
+        {
+          "name": "Streamlit",
+          "iconifyClass": "simple-icons:streamlit"
+        },
+
+        {
+          "name": "Machine Learning",
+          "iconifyClass": "simple-icons:tensorflow"
+        }
+      ]
+    },
+
+    {
+      "id": "sravan-portfolio",
+      "name": "Sravan Kumar Portfolio",
+      "createdAt": "2025-01-01T00:00:00Z",
+      "url": "https://github.com/Sravankumar68",
+      "description": "Personal developer portfolio built using ReactJS showcasing Full Stack Development, Artificial Intelligence and Prompt Engineering projects.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    }
+  ]
+}
