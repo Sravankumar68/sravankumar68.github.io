@@ -326,7 +326,7 @@ const degrees = {
 
       alt_name: "Parul University",
 
-      duration: "2022 - 2026",
+      duration: "2023 - 2027",
 
       descriptions: [
         "⚡ AI & Tech Enthusiast passionate about Full Stack Development and Artificial Intelligence.",
