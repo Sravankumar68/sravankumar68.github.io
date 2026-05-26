@@ -14,7 +14,7 @@ const seo = {
 
   image: "profile.jpg.jpg",
 
-  url: "http://localhost:3000/",
+  url: "https://sravankumar68.github.io/",
 };
 
 // Home Page
